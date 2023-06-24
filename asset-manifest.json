@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Counter-project-app/static/css/main.c48efe87.css",
+    "main.js": "/Counter-project-app/static/js/main.e4ef94a1.js",
+    "static/js/787.b4e1bb35.chunk.js": "/Counter-project-app/static/js/787.b4e1bb35.chunk.js",
+    "static/media/logo.svg": "/Counter-project-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Counter-project-app/index.html",
+    "main.c48efe87.css.map": "/Counter-project-app/static/css/main.c48efe87.css.map",
+    "main.e4ef94a1.js.map": "/Counter-project-app/static/js/main.e4ef94a1.js.map",
+    "787.b4e1bb35.chunk.js.map": "/Counter-project-app/static/js/787.b4e1bb35.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c48efe87.css",
+    "static/js/main.e4ef94a1.js"
+  ]
+}
